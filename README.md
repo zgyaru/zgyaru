@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zgyaru
 - 👀 I’m interested in data processing and visualization
 - 🌱 I’m currently learning immunotheray for cancer
-- 💞️ I’m looking to collaborate on molecular mechanism and machine learning algorithm development
+- 💞️ I’m looking to collaborate on machine learning algorithm development
 - 📫 How to reach me WeChat ID: zyr6226
 
 <!---
