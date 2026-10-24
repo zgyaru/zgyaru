@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @zgyaru
-- 👀 I’m interested in data processing and visualization
-- 🌱 I’m currently learning immunotheray for cancer
-- 💞️ I’m looking to collaborate on machine learning algorithm development
+- 🌱 I’m currently doing ageing project
+- 💞️ Live better, not longer
 
 <!---
 zgyaru/zgyaru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
