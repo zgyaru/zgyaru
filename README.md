@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Yaru
+- 👀 I'm interested in the mysteries of life
 - 🌱 I’m currently doing ageing project
 - 💞️ Live better, not longer
 
