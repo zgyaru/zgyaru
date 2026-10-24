@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zgyaru
+- 👋 Hi, I’m Yaru
 - 🌱 I’m currently doing ageing project
 - 💞️ Live better, not longer
 
